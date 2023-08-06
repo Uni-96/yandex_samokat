@@ -1,3 +1,4 @@
+# Сергей Алексиянц, 7-я когорта — Финальный проект. Инженер по тестированию плюс
 import sender_stand_request
 
 def test_receive_order_by_number_get_success_response():
